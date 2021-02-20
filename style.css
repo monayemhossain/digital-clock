@@ -1,0 +1,38 @@
+.green{
+    margin:100px auto;
+    width: 500px;
+    height: 300px;
+    background-color:green;
+
+}
+
+.display{
+   position:relative;
+   top:50px;
+   left:50px;
+
+    width:400px;
+    height: 150px;
+    background-color: red;
+    padding-top:50px;
+    border-radius: 60%;
+}
+.center{
+    width: 300px;
+    margin:0 auto;
+}
+
+h1{
+    width:300px;
+    display:inline;
+    font-family: arial;
+    font-size: 40px;
+   color:whitesmoke;
+   
+}
+
+small{
+    color: whitesmoke;
+    font-size: 30px;
+    
+}
